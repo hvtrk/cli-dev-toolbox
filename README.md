@@ -1,6 +1,9 @@
----
+# 📦 CLI Dev Toolbox
 
-# **📦 CLI Dev Toolbox**
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build Status](https://github.com/hvtrk/cli-dev-toolbox/actions/workflows/ci.yml/badge.svg)
+
 
 A Python command-line utility for developers — includes JSON ↔ CSV conversion, JSON pretty-printing, and HTTP URL response time checking.
 
