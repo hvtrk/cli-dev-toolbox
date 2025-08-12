@@ -1,0 +1,89 @@
+{
+    "emp_details": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "department": "Engineering",
+            "position": "Senior Software Engineer",
+            "salary": 85000,
+            "hire_date": "2022-01-15",
+            "skills": [
+                "Python",
+                "JavaScript",
+                "SQL",
+                "Docker"
+            ],
+            "location": "New York",
+            "is_active": true
+        },
+        {
+            "id": 2,
+            "name": "Bob Smith",
+            "email": "bob.smith@example.com",
+            "department": "Marketing",
+            "position": "Marketing Manager",
+            "salary": 75000,
+            "hire_date": "2021-08-22",
+            "skills": [
+                "SEO",
+                "Content Writing",
+                "Analytics",
+                "Social Media"
+            ],
+            "location": "Los Angeles",
+            "is_active": true
+        },
+        {
+            "id": 3,
+            "name": "Charlie Brown",
+            "email": "charlie.brown@example.com",
+            "department": "Sales",
+            "position": "Sales Representative",
+            "salary": 65000,
+            "hire_date": "2023-03-10",
+            "skills": [
+                "CRM",
+                "Negotiation",
+                "Presentation",
+                "Customer Service"
+            ],
+            "location": "Chicago",
+            "is_active": false
+        },
+        {
+            "id": 4,
+            "name": "Diana Prince",
+            "email": "diana.prince@example.com",
+            "department": "Engineering",
+            "position": "DevOps Engineer",
+            "salary": 90000,
+            "hire_date": "2022-11-05",
+            "skills": [
+                "AWS",
+                "Kubernetes",
+                "Terraform",
+                "Jenkins"
+            ],
+            "location": "San Francisco",
+            "is_active": true
+        },
+        {
+            "id": 5,
+            "name": "Eve Wilson",
+            "email": "eve.wilson@example.com",
+            "department": "HR",
+            "position": "HR Specialist",
+            "salary": 60000,
+            "hire_date": "2023-01-20",
+            "skills": [
+                "Recruitment",
+                "Employee Relations",
+                "Benefits",
+                "Compliance"
+            ],
+            "location": "Boston",
+            "is_active": true
+        }
+    ]
+}
